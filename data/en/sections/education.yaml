@@ -1,0 +1,57 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Master of Science in Computer Science
+  icon: fa-microscope
+  timeframe: 2014-2016
+  institution:
+    name: National Taiwan University
+    url: "#"
+  grade: #(optional)
+    scale: GPA
+    achieved: 4.22
+    outOf: 4.3
+  publications: #(optional)
+  - title: Sensory Cues Guided Rehabilitation Robotic Walker Realized by Depth Image-Based Gait Analysis
+    url: "#"
+  - title: "Service robots: System design for tracking people through data fusion and initiating interaction with the human group by inferring social situations"
+    url: "#"
+  - title: Depth image based gait tracking and analysis via robotic walker
+    url: "#"
+  extracurricularActivities:
+  - Teaching assistant of Robotics, Department of Computer Science and Information Engineering, National Taiwan University (September, 2015-January, 2016)
+  - Won 2nd place in Foxconn intelligent robot application contest, 2015
+- name: Bachelor of Science in Engineering
+  icon: fa-graduation-cap
+  timeframe: 2010-2014
+  institution:
+    name: National Taiwan University
+    url: "#"
+  grade: #(optional)
+    scale: GPA
+    achieved: 3.9
+    outOf: 4.3
+  extracurricularActivities: #(optional)
+  - Presidential award from National Taiwan University (Fall 2013, Spring 2014)
+  - Officer of artistic design, student association of department of engineering science and ocean engineering, National Taiwan University (September, 2012-August, 2013)
+- name: FrontierLab@OsakaU program exchange student in School of Engineering
+  icon: fa-university
+  timeframe: 2013-2014
+  institution:
+    name: Osaka University, Osaka, Japan
+    url: "#"
+  grade: #(optional)
+    scale: GPA
+    achieved: 3.9
+    outOf: 4
+  extracurricularActivities: #(optional)
+  - Short-term exchange student scholarship from Japan-Taiwan Interchange Association, 2014

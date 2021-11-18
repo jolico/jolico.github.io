@@ -1,0 +1,54 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Taiwan Semiconductor Manufacture Company
+    url: "https://www.tsmc.com"
+    location: Hsinchu, Taiwan
+    #overview: TSMC is the world's largest dedicated semiconductor foundry with multiple fab facilities across the world. TSMC IT engineers are committed to achieving operational efficiency and excellence with AIOps to ensure 24*7 non-stop manufacturing.
+  positions:
+  - designation: Infrastructure monitoring system/Splunk central team
+    start: Sep 2019
+    responsibilities:
+    - Lead the dashboard team to develop data visualization for various systems.
+    - Responsible for communicating requirements with users, designing solutions, planning release schedules and coordinating with other teams.
+    - Collaborate with data scientists to adopt ML algorithms and develop dashboards that speeds up daily operation jobs, such as change sanity check, root cause analysis and anomaly detection.
+    - Develop Splunk App/Add-ons to integrate Splunk with the company's internal systems, such as Machine Learning Platform and Jira.
+    - Design solutions for Splunk architecture and operational workflow.
+    - Build and operate the first roll-out Splunk cluster in 300mm fab.
+
+  - designation: Log analytic platform
+    start: Jul 2018
+    end: Sep 2019
+    responsibilities:
+    - Design, develop and manage log analytic platform with ELK stack for log management and Hadoop/Spark for distributed data analysis.
+    - Analysis auditing logs of critical systems which reveals vulunable insights for daily operation and management decision making and prevents security risks.
+    - Develop anomaly detection applications ([BFast](https://bfast.r-forge.r-project.org/)) with Spark to monitor 420k+ network metrics, which successfully detect deterioration and achieve predictive maintenance.
+    - In New Comer Greeting workshop, won 2nd place in group competition and ranked top 3 in personal award with a network management system proposal based on integrated visualization. 
+ 
+
+
+  - designation: Big data platform solution team
+    start: Sep 2017
+    end: Jul 2018
+    responsibilities:
+    - Survey, examine and deliver testing reports and SOPs for Hadoop eco-system upgrade, which reduced the migration efforts for 10+ clusters across the company.
+    - Coach and guide 5 application teams to integrate systems with Hadoop, Spark and Kafka.
+    - Develop monitoring and automation tools to enhance the operation efficiency.
+    - Recognized as Quarterly Star of the division for enhancing data flow for EUV encoders, which improves overall execution time by 88%.
+
+- company:
+    name: Department of Electrical Engineering, National Taiwan University
+  positions:
+  - designation: Research assistant
+    start: Feb 2017
+    end: Sep 2016

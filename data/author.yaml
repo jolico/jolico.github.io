@@ -1,0 +1,17 @@
+# some information about you
+name: "Anne Chao (Yen Chao)"
+nickname: "Anne"
+image: "images/avatar_2.png"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hello, I am"
+
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "jolico025@gmail.com"
+
+# a summary of what you do
+summary:
+- I am a Developer
+- I work with Logs and Metrics
+- I make operation Faster and Easiler 

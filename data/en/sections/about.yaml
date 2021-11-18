@@ -1,0 +1,56 @@
+section:
+  name: About # Title of section (default: "")
+  id: about # url id/slug of section *Required*
+  enable: true # Boolean to determine if this section is enabled (default: false)
+  weight: 1 # Order to display section in (default: alphabetical followed by weight)
+  showOnNavbar: true # Boolean to determine if a link should be shown for this section on the navbar
+  template: sections/about.html # allows you to point to a specific template.
+
+# your designation
+designation: Software Engineer
+# your company information
+company:
+  name: Taiwan Semiconductor Manualfacture Company
+  url: "https://www.tsmc.com"
+
+# a summary about you
+summary: 'A software engineer with experience in big data, ELK and Splunk. Work with logs and machine learning to enhance the efficiency of IT operation. With solid training in system engineering, demonstrate success in coordinating teams to accomplish complex projects. Experienced in various team working conditions and multicultural corporations.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "jolico025@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/jolico"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/yen-chao-6549ab135"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: Red Hat Certified Engineer
+  url: "https://rhtapps.redhat.com/certifications/badge/verify/TWCOIRKTH6H2LVKEIG7Y3OH3TUAEQU3CUPSQX2KSDXT6RW46LQ3XCZJWRJNV7ILTXVE4I6VB7OTCG4U5NQYTCNA62RUWOCM34WWBUYQ="
+  badge: "https://rhtapps.redhat.com/certifications/badge/download/TWCOIRKTH6H2LVKEIG7Y3OH3TUAEQU3CUPSQX2KSDXT6RW46LQ3XCZJWRJNV7ILTXVE4I6VB7OTCG4U5NQYTCNA62RUWOCM34WWBUYQ="
+
+- type: certification
+  name: Red Hat Certified System Administrator
+  url: "https://rhtapps.redhat.com/certifications/badge/verify/TWCOIRKTH6H2LVKEIG7Y3OH3TUAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ="
+  badge: "https://rhtapps.redhat.com/certifications/badge/download/TWCOIRKTH6H2LVKEIG7Y3OH3TUAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ="
+
+- type: certification
+  name: "Microsoft Certified: Azure Administrator Associate"
+  url: "https://www.credly.com/badges/cd5fd301-c7e9-45fd-8ebe-d3d7d8bd7267/public_url"
+  badge: "https://images.credly.com/size/220x220/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"
+
+- type: certification
+  name: "Microsoft Certified: Azure Fundamentals"
+  url: "https://www.credly.com/badges/bb15b99d-6fd3-4a34-b0c2-efc1adf79581/public_url"
+  badge: "https://images.credly.com/size/680x680/images/6a254dad-77e5-4e71-8049-94e5c7a15981/azure-fundamentals-600x600.png"
