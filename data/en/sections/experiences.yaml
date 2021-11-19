@@ -31,7 +31,7 @@ experiences:
     end: Sep 2019
     responsibilities:
     - Design, develop and manage log analytic platform with ELK stack for log management and Hadoop/Spark for distributed data analysis.
-    - Analysis auditing logs of critical systems which reveals vulunable insights for daily operation and management decision making and prevents security risks.
+    - Analysis auditing logs of critical systems which reveals valuable insights for daily operation and management decision making and prevents security risks.
     - Develop anomaly detection applications ([BFast](https://bfast.r-forge.r-project.org/)) with Spark to monitor 420k+ network metrics, which successfully detect deterioration and achieve predictive maintenance.
     - In New Comer Greeting workshop, won 2nd place in group competition and ranked top 3 in personal award with a network management system proposal based on integrated visualization. 
  

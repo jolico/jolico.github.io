@@ -22,11 +22,11 @@ degrees:
     outOf: 4.3
   publications: #(optional)
   - title: Sensory Cues Guided Rehabilitation Robotic Walker Realized by Depth Image-Based Gait Analysis
-    url: "#"
+    url: "https://ieeexplore.ieee.org/abstract/document/7332986"
   - title: "Service robots: System design for tracking people through data fusion and initiating interaction with the human group by inferring social situations"
-    url: "#"
+    url: "https://www.sciencedirect.com/science/article/abs/pii/S0921889015301585"
   - title: Depth image based gait tracking and analysis via robotic walker
-    url: "#"
+    url: "https://ieeexplore.ieee.org/abstract/document/7140028"
   extracurricularActivities:
   - Teaching assistant of Robotics, Department of Computer Science and Information Engineering, National Taiwan University (September, 2015-January, 2016)
   - Won 2nd place in Foxconn intelligent robot application contest, 2015
